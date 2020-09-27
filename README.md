@@ -12,8 +12,14 @@ Format:
 Date --- subject
 
 Modules:
+
 vba: for active / or selected Outlook elements
+
 C#: Search Outlook
+
 py: Gui
+
 py: hotkey
+
 C#: hotkey
+
